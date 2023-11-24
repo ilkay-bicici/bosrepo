@@ -1,0 +1,2 @@
+ÇEVİK YAZILIM VİZE
+READ ME 
