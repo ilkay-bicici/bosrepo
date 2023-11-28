@@ -1,2 +1,2 @@
-ÇEVİK YAZILIM VİZE
-READ ME 
+READ ME
+This repo for git & git-hub tutorial from Codêdex 
